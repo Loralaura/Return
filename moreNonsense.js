@@ -1,3 +1,4 @@
 function test() {
-  return "yeyah";
+  let test = 0;
+  return "yeyah " + test;
 }
